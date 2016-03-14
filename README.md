@@ -44,7 +44,7 @@ StarlightはGitHubを利活用したプロボノ・イノベーションです�
 
 ## Licence
 
-[MIT](https://github.com/tcnksm/tool/blob/master/LICENCE)
+[The MIT License (MIT)](LICENCE.md)
 
 ## Author
 
